@@ -1,7 +1,7 @@
 package pratica1;
 
 public class AppEmpresa {
-    public void main(String[]args){
+    public static void main(String[]args){
         Funcionariohj f1 = new FuncionarioClt("Jonas", 3000);
         Funcionariohj f2 = new FuncionarioPJ("Rita", 4000);
 
